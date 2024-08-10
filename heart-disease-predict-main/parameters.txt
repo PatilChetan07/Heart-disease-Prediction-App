@@ -1,0 +1,25 @@
+Age: Typically, age can range from early adulthood (e.g., 20 years old) to older ages (e.g., 80 years old or more).
+
+Sex: Binary variable with values 0 or 1 representing female or male, respectively.
+
+Chest Pain Type: Categorical variable with values ranging from 0 to 3, representing different types of chest pain.
+
+Resting Blood Pressure: Normal resting blood pressure for adults is generally considered to be around 120/80 mmHg. However, elevated blood pressure can vary widely, but values above 140/90 mmHg are often considered high.
+
+Serum Cholesterol: Normal serum cholesterol levels are typically considered to be less than 200 mg/dl. Levels between 200 and 239 mg/dl are borderline high, and levels of 240 mg/dl and above are considered high.
+
+Fasting Blood Sugar: Binary variable with values 0 or 1 indicating whether fasting blood sugar is greater than 120 mg/dl.
+
+Resting Electrocardiographic Results: Categorical variable with values 0, 1, or 2 representing different results of the resting electrocardiogram.
+
+Maximum Heart Rate Achieved: Maximum heart rate achieved during exercise varies widely depending on age and fitness level. For adults, it typically ranges from 60 to 220 beats per minute.
+
+Exercise Induced Angina: Binary variable with values 0 or 1 indicating the presence or absence of exercise-induced angina.
+
+ST Depression (Oldpeak): ST depression induced by exercise relative to rest can vary but typically ranges from 0 to 5 or more millimeters.
+
+Slope of Peak Exercise ST Segment: Categorical variable with values indicating different slopes of the peak exercise ST segment.
+
+Number of Major Vessels Colored by Fluoroscopy: This variable ranges from 0 to 3, indicating the number of major blood vessels colored by fluoroscopy.
+
+Thal: Categorical variable with values 0, 1, or 2 representing different thallium stress test results.
